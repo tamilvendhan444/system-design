@@ -1,0 +1,7 @@
+{
+  "name": "HireFlow — Job Search & Recruitment Platform",
+  "description": "Production-ready enterprise job search and recruitment platform showcasing Low-Level Design (REST APIs, Prisma schemas, transactional outbox) and High-Level System Design (microservice architecture, Redis caching, event messaging, analytics).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
